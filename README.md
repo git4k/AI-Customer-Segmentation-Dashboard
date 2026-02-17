@@ -114,23 +114,6 @@ The dataset is downloaded automatically in Cell 2 — no manual data download re
 
 ---
 
-## Results
-
-The analysis identified four distinct customer segments based on the 2010-2011 dataset:
-
-| Cluster | Label | Characteristics | Strategy |
-| :--- | :--- | :--- | :--- |
-| **0** | **Loyal Regulars** | Moderate spend, high frequency, low recency. | Focus on increasing basket size via upsells. |
-| **1** | **Champions** | Very high spend, very high frequency. | VIP treatment; no discounts required. |
-| **2** | **At Risk** | High historical spend, but high recency (>3 months). | Aggressive win-back campaigns. |
-| **3** | **Lost/Low Value** | Low spend, low frequency, high recency. | Low-priority automated re-engagement. |
-
-## Future Improvements
-
-* **Elbow Method Visualization:** Implement a script to visually plot the WCSS (Within-Cluster Sum of Square) to dynamically determine the optimal 'k' value.
-* **Streamlit Dashboard:** Develop a frontend interface to allow non-technical stakeholders to upload new datasets and view updated clusters in real-time.
-* **Production Deployment:** Containerize the application using Docker for cloud deployment.
-
 ## License
 
 This project is open-source and available under the MIT License.
