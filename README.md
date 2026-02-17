@@ -70,7 +70,7 @@ Two charts were produced to explore and communicate the segmentation results:
 
 ---
 
-## 📊 Dataset
+##  Dataset
 
 | Property | Value |
 |---|---|
@@ -83,7 +83,7 @@ Two charts were produced to explore and communicate the segmentation results:
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 | Tool | Purpose |
 |---|---|
