@@ -4,7 +4,7 @@
 ![Scikit-Learn](https://img.shields.io/badge/Library-Scikit--Learn-orange)
 ![Status](https://img.shields.io/badge/Status-Completed-green)
 
-## 📌 Project Overview
+##  Project Overview
 
 This project applies **RFM Analysis** (Recency, Frequency, Monetary) combined with **K-Means Clustering** to segment customers from a real-world online retail dataset. An AI marketing agent then analyzes each cluster and generates a recommended campaign strategy and draft email — automatically.
 
@@ -12,7 +12,7 @@ The goal is to move beyond "one-size-fits-all" marketing and give businesses a d
 
 ---
 
-## 🧠 What We Did — Step by Step
+##  What We Did — Step by Step
 
 ### 1. Environment Setup
 - Installed and configured the **Google Gemini API** (`google-generativeai`) for potential LLM-powered enhancements.
